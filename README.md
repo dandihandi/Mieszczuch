@@ -17,7 +17,6 @@ Program pozwala pobierać pojedyncze ogłoszenia, całe wyniki wyszukiwania oraz
 * zapisywanie ulubionych ofert,
 * automatyczne aktualizacje programu,
 * nowoczesny interfejs okienkowy,
-* możliwość uruchamiania bez widocznego okna konsoli.
 
 ## Wymagania
 
