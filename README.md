@@ -1,4 +1,4 @@
-# 🏠 Mieszczuch 1.1
+# 🏠 Mieszczuch
 
 Aplikacja do pobierania, porównywania i analizowania ofert nieruchomości z OLX i Otodom.
 
