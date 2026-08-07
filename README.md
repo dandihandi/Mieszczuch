@@ -1,67 +1,30 @@
-# Mieszczuch
-Znajdź wymarzone mieszkanie na wynajem (wkrótce również do kupna) w mgnieniu oka!
+# 🏠 Mieszczuch 1.1
 
-**Mieszczuch** to aplikacja desktopowa dla systemu Windows, która automatycznie wyszukuje i analizuje ogłoszenia mieszkań z serwisów **OLX** i **Otodom**.
+Aplikacja do pobierania, porównywania i analizowania ofert nieruchomości z OLX i Otodom.
 
-Program pozwala pobierać pojedyncze ogłoszenia, całe wyniki wyszukiwania oraz obserwowane oferty, a następnie generuje przejrzysty raport z najważniejszymi informacjami.
+## ✨ Funkcje
 
-## Najważniejsze funkcje
+- 🏠 Obsługa wynajmu i kupna nieruchomości
+- 🔎 Pobieranie ofert z OLX i Otodom
+- 👁️ Import obserwowanych ofert
+- ⭐ Zapisywanie i odświeżanie ulubionych
+- 💰 Wykrywanie zmian cen
+- 🚇 Najbliższe metro i przystanki autobusowe
+- 📊 Raport HTML z filtrowaniem i sortowaniem
+- 📄 Eksport do CSV, XLSX i PDF
+- 🎨 Motywy aplikacji
+- 📐 Automatyczne skalowanie interfejsu do rozdzielczości i wielkości okna
+- 🔄 Automatyczne sprawdzanie aktualizacji
+- 🚀 Automatyczna konfiguracja środowiska przy pierwszym uruchomieniu
 
-* pobieranie ofert z OLX i Otodom,
-* import linków z pliku `linki.txt`,
-* pobieranie całych wyników wyszukiwania OLX,
-* import obserwowanych ofert,
-* automatyczne pomijanie wcześniej pobranych ofert,
-* raport HTML z wyszukiwaniem i filtrami,
-* eksport do CSV, XLSX oraz PDF,
-* zapisywanie ulubionych ofert,
-* automatyczne aktualizacje programu,
-* nowoczesny interfejs okienkowy,
+## 🚀 Uruchomienie
 
-## Wymagania
+Uruchom:
 
-Program działa na:
+`Mieszczuch.exe`
 
-* Windows 10 lub Windows 11,
-* połączeniu z Internetem.
-* obie ręce
+Przy pierwszym uruchomieniu aplikacja automatycznie przygotuje wymagane środowisko.
 
-Przy pierwszym uruchomieniu aplikacja automatycznie:
+## ❤️ Wsparcie
 
-* tworzy środowisko Python,
-* instaluje wszystkie wymagane biblioteki,
-* pobiera przeglądarkę Chromium używaną przez Playwright.
-
-Użytkownik nie musi wykonywać tych czynności ręcznie.
-
-## Wymagane biblioteki
-
-Program korzysta z następujących pakietów Python:
-
-* Playwright,
-* BeautifulSoup4,
-* lxml,
-* openpyxl,
-* reportlab,
-* colorama.
-
-## Uruchamianie
-
-Uruchomić program przez:
-
-```text
-Mieszczuch.exe
-```
-
-## Generowane pliki
-
-Po zakończeniu działania program tworzy między innymi:
-
-* `oferty.html`
-* `oferty.csv`
-* `oferty.xlsx`
-* `oferty.pdf`
-
-## Informacja
-
-Program przeznaczony jest do automatycznego zbierania i porównywania ofert mieszkań. Dane pobierane są z publicznie dostępnych ogłoszeń i prezentowane w postaci wygodnego raportu ułatwiającego ich analizę.
+Jeśli projekt jest dla Ciebie przydatny, możesz wesprzeć jego dalszy rozwój bezpośrednio z poziomu aplikacji.
